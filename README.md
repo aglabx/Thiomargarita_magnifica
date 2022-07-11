@@ -10,6 +10,8 @@ https://www.biorxiv.org/content/10.1101/2022.02.16.480423v1.full
 
 https://www.science.org/doi/suppl/10.1126/science.abb3634/suppl_file/science.abb3634_sm.pdf
 
+Страничка на JGI: https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=GenomeSearchList&page=displayTaxonList&searchFilter=t.taxon_display_name&searchTerm=Thiomargarita%20magnifica&file=t.taxon_display_name1733603
+
 ## Цель
 
 Пересобрать и аннотировать геном гиганской бактерии.
