@@ -1,0 +1,19 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2020-03-06, number of genomes: 4085, number of BUSCOs: 124)
+# Summarized benchmarking in BUSCO notation for file /home/mira/Bacteria2022/Thiomargarita_magnifica/assembly/scaffolds.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:97.6%[S:58.1%,D:39.5%],F:0.8%,M:1.6%,n:124	   
+	121	Complete BUSCOs (C)			   
+	72	Complete and single-copy BUSCOs (S)	   
+	49	Complete and duplicated BUSCOs (D)	   
+	1	Fragmented BUSCOs (F)			   
+	2	Missing BUSCOs (M)			   
+	124	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	prodigal: 2.6.3

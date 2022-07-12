@@ -1,0 +1,17 @@
+#                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_510_length_9066_cov_82.775503_1 -            335 1257362at2           -            240   1.4e-74  250.5   2.5   1   1   1.9e-77     1e-73  247.7   2.5     1   235     3   305     3   309 0.84 # 434 # 1438 # -1 # ID=510_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.511
+NODE_84_length_28464_cov_7.097686_27 -            333 1257362at2           -            240   1.9e-56  191.2   2.1   1   1   3.2e-57   1.7e-53  181.5   2.1     1   236     2   310     2   314 0.79 # 21804 # 22802 # 1 # ID=84_27;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.323
+NODE_552_length_8313_cov_74.095799_5 -            227 1257362at2           -            240   0.00059   19.3   0.1   1   1     2e-07    0.0011   18.5   0.1    36   100    32    97     3   104 0.66 # 4623 # 5303 # 1 # ID=552_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.490
+NODE_4674_length_274_cov_0.751269_2  -             48 1257362at2           -            240     0.021   14.3   0.0   1   1   4.5e-06     0.024   14.0   0.0   217   234     3    20     1    24 0.91 # 131 # 274 # -1 # ID=4674_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.285
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/bacteria_odb10/hmms/1257362at2.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/auto_lineage/run_bacteria_odb10/hmmer_output/1257362at2.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/bacteria_odb10/hmms/1257362at2.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results
+# Date:            Tue Jul 12 12:52:28 2022
+# [ok]

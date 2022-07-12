@@ -1,0 +1,21 @@
+#                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_20_length_53635_cov_137.680010_25 -            781 55024at2157          -            476   1.9e-31  109.4   0.0   1   4      0.44   4.7e+03   -4.0   0.0     9    36     9    36     8    36 0.77 # 40762 # 43104 # -1 # ID=20_25;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.476
+NODE_20_length_53635_cov_137.680010_25 -            781 55024at2157          -            476   1.9e-31  109.4   0.0   2   4   0.00035       3.7    6.2   0.0    34    55   158   179   144   199 0.78 # 40762 # 43104 # -1 # ID=20_25;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.476
+NODE_20_length_53635_cov_137.680010_25 -            781 55024at2157          -            476   1.9e-31  109.4   0.0   3   4    0.0072        76    1.9   0.0   161   201   298   337   292   345 0.78 # 40762 # 43104 # -1 # ID=20_25;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.476
+NODE_20_length_53635_cov_137.680010_25 -            781 55024at2157          -            476   1.9e-31  109.4   0.0   4   4   1.5e-31   1.6e-27   96.5   0.0   232   475   403   673   392   674 0.81 # 40762 # 43104 # -1 # ID=20_25;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.476
+NODE_274_length_15220_cov_6.768408_9   -            774 55024at2157          -            476   6.1e-21   74.8   0.6   1   4       0.2   2.2e+03   -2.9   0.0   211   239    22    50    15    52 0.76 # 7355 # 9676 # -1 # ID=274_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.285
+NODE_274_length_15220_cov_6.768408_9   -            774 55024at2157          -            476   6.1e-21   74.8   0.6   2   4     0.013   1.4e+02    1.1   0.0    30    61   157   188   135   197 0.81 # 7355 # 9676 # -1 # ID=274_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.285
+NODE_274_length_15220_cov_6.768408_9   -            774 55024at2157          -            476   6.1e-21   74.8   0.6   3   4   4.7e-19     5e-15   55.3   0.1   225   402   382   577   338   588 0.78 # 7355 # 9676 # -1 # ID=274_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.285
+NODE_274_length_15220_cov_6.768408_9   -            774 55024at2157          -            476   6.1e-21   74.8   0.6   4   4   1.4e-06     0.015   14.2   0.0   430   474   624   668   596   670 0.85 # 7355 # 9676 # -1 # ID=274_9;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.285
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/archaea_odb10/hmms/55024at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/auto_lineage/run_archaea_odb10/hmmer_output/55024at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/archaea_odb10/hmms/55024at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results
+# Date:            Tue Jul 12 12:51:49 2022
+# [ok]
