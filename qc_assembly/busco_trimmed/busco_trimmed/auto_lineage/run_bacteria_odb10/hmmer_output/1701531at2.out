@@ -1,0 +1,19 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_59_length_33138_cov_86.800823_25 -            288 1701531at2           -            164     2e-50  171.3  16.2   1   3     2e-20   2.1e-16   60.6   4.5     2    54     5    57     4    60 0.97 # 25258 # 26121 # -1 # ID=59_25;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.438
+NODE_59_length_33138_cov_86.800823_25 -            288 1701531at2           -            164     2e-50  171.3  16.2   2   3   6.7e-09     7e-05   23.1   0.1    51    77    75   101    58   107 0.77 # 25258 # 26121 # -1 # ID=59_25;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.438
+NODE_59_length_33138_cov_86.800823_25 -            288 1701531at2           -            164     2e-50  171.3  16.2   3   3   8.8e-31   9.3e-27   94.3   1.3    95   164   215   284   214   284 0.99 # 25258 # 26121 # -1 # ID=59_25;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.438
+NODE_1006_length_3562_cov_4.387374_2  -            297 1701531at2           -            164   5.7e-39  134.0  16.9   1   3     1e-15   1.1e-11   45.3   5.1     1    57     4    60     4    77 0.93 # 180 # 1070 # 1 # ID=1006_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+NODE_1006_length_3562_cov_4.387374_2  -            297 1701531at2           -            164   5.7e-39  134.0  16.9   2   3   1.5e-06     0.015   15.5   0.1    54    75    85   106    69   108 0.88 # 180 # 1070 # 1 # ID=1006_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+NODE_1006_length_3562_cov_4.387374_2  -            297 1701531at2           -            164   5.7e-39  134.0  16.9   3   3   2.4e-26   2.6e-22   79.9   1.4    95   163   223   291   222   292 0.98 # 180 # 1070 # 1 # ID=1006_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_downloads/lineages/bacteria_odb10/hmms/1701531at2.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/auto_lineage/run_bacteria_odb10/hmmer_output/1701531at2.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_downloads/lineages/bacteria_odb10/hmms/1701531at2.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed
+# Date:            Tue Jul 12 13:35:05 2022
+# [ok]

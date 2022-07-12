@@ -1,0 +1,21 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_21_length_50633_cov_89.474207_1  -            353 1080436at2           -            270  6.5e-114  380.2   1.0   1   1  2.7e-117  9.4e-114  379.7   1.0     1   264     5   311     5   323 0.91 # 308 # 1366 # 1 # ID=21_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+NODE_894_length_4446_cov_6.061112_5   -            340 1080436at2           -            270  5.2e-113  377.2   2.2   1   1  2.1e-116  7.3e-113  376.8   2.2     2   262     6   309     5   323 0.90 # 3228 # 4247 # 1 # ID=894_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.343
+NODE_94_length_27185_cov_96.983437_24 -            516 1080436at2           -            270   0.00027   20.8   0.2   1   1   1.2e-07   0.00042   20.1   0.2    20   134   110   227   106   281 0.75 # 23695 # 25242 # -1 # ID=94_24;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.477
+NODE_761_length_5417_cov_93.732959_2  -            228 1080436at2           -            270     0.018   14.8   0.1   1   2   3.1e-05      0.11   12.2   0.0    40    78    27    66     8    76 0.79 # 1005 # 1688 # 1 # ID=761_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424
+NODE_761_length_5417_cov_93.732959_2  -            228 1080436at2           -            270     0.018   14.8   0.1   2   2      0.15   5.2e+02    0.1   0.0   101   133   176   208   173   214 0.85 # 1005 # 1688 # 1 # ID=761_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424
+NODE_33_length_43996_cov_94.240260_17 -            425 1080436at2           -            270     0.025   14.3   0.0   1   2      0.21   7.5e+02   -0.4   0.0    48    61    47    60    32    67 0.82 # 15843 # 17117 # 1 # ID=33_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.413
+NODE_33_length_43996_cov_94.240260_17 -            425 1080436at2           -            270     0.025   14.3   0.0   2   2     4e-05      0.14   11.9   0.0     7    57   184   234   179   257 0.87 # 15843 # 17117 # 1 # ID=33_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.413
+NODE_477_length_9806_cov_13.518244_9  -            232 1080436at2           -            270      0.03   14.0   0.1   1   1   1.3e-05     0.046   13.4   0.1    42    73    24    57     3    73 0.81 # 7888 # 8583 # 1 # ID=477_9;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.329
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_downloads/lineages/bacteria_odb10/hmms/1080436at2.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/auto_lineage/run_bacteria_odb10/hmmer_output/1080436at2.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_downloads/lineages/bacteria_odb10/hmms/1080436at2.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed/busco_trimmed/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_trimmed
+# Date:            Tue Jul 12 13:35:04 2022
+# [ok]
