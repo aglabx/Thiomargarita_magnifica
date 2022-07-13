@@ -1,0 +1,19 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: archaea_odb10 (Creation date: 2021-02-23, number of genomes: 404, number of BUSCOs: 194)
+# Summarized benchmarking in BUSCO notation for file /home/mira/Downloads/2926625205.fna
+# BUSCO was run in mode: genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:24.7%[S:14.4%,D:10.3%],F:6.2%,M:69.1%,n:194	   
+	48	Complete BUSCOs (C)			   
+	28	Complete and single-copy BUSCOs (S)	   
+	20	Complete and duplicated BUSCOs (D)	   
+	12	Fragmented BUSCOs (F)			   
+	134	Missing BUSCOs (M)			   
+	194	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	prodigal: 2.6.3

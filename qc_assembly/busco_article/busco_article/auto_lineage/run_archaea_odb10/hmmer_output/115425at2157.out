@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0485799_0196_18    -            129 115425at2157         -            118   2.1e-14   53.4   0.2   1   1   8.2e-18   4.3e-14   52.4   0.2     3   117     7   127     5   128 0.83 # 20461 # 20847 # 1 # ID=196_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+Ga0485799_0594_2     -            130 115425at2157         -            118   2.4e-14   53.2   0.2   1   1   5.6e-18   2.9e-14   52.9   0.2     3   117     7   128     5   129 0.89 # 1789 # 2178 # -1 # ID=594_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.377
+Ga0485799_0691_3     -            359 115425at2157         -            118     0.052   13.4   0.1   1   1     2e-05       0.1   12.4   0.1    57   117    31    90     9    91 0.73 # 1189 # 2265 # -1 # ID=691_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.279
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/115425at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/auto_lineage/run_archaea_odb10/hmmer_output/115425at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/115425at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article
+# Date:            Wed Jul 13 13:04:26 2022
+# [ok]

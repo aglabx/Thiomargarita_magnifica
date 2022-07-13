@@ -1,0 +1,217 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: archaea_odb10 (Creation date: 2021-02-23, number of genomes: 404, number of BUSCOs: 194)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+860at2157	Fragmented	Ga0485799_1035	176	973	+	280.4	222	https://www.orthodb.org/v10?query=860at2157	Phosphoribosylformylglycinamidine synthase subunit PurL
+1642at2157	Missing
+3905at2157	Missing
+6590at2157	Complete	Ga0485799_0011	38711	40723	-	288.1	364	https://www.orthodb.org/v10?query=6590at2157	Methionine--tRNA ligase
+6736at2157	Missing
+7046at2157	Duplicated	Ga0485799_0043	36929	38650	+	194.2	401	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7046at2157	Duplicated	Ga0485799_0492	4619	6208	-	178.6	414	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7724at2157	Missing
+7896at2157	Complete	Ga0485799_0777	1307	3994	-	258.0	385	https://www.orthodb.org/v10?query=7896at2157	Alanine--tRNA ligase
+8899at2157	Complete	Ga0485799_0022	4873	6276	+	589.2	389	https://www.orthodb.org/v10?query=8899at2157	V-type ATP synthase beta chain
+8922at2157	Missing
+10236at2157	Missing
+13010at2157	Missing
+13531at2157	Missing
+13565at2157	Missing
+14061at2157	Duplicated	Ga0485799_0229	17122	18753	-	582.3	467	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14061at2157	Duplicated	Ga0485799_0596	3473	5089	-	547.9	451	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14454at2157	Missing
+14889at2157	Complete	Ga0485799_0173	9101	10957	-	248.5	450	https://www.orthodb.org/v10?query=14889at2157	V-type ATP synthase subunit I
+17053at2157	Missing
+17629at2157	Complete	Ga0485799_0285	6699	8012	-	331.1	336	https://www.orthodb.org/v10?query=17629at2157	Adenosylhomocysteinase
+18705at2157	Complete	Ga0485799_0855	241	1539	+	222.3	361	https://www.orthodb.org/v10?query=18705at2157	MiaB-like tRNA modifying enzyme
+19750at2157	Fragmented	Ga0485799_0786	2218	3327	-	28.4	121	https://www.orthodb.org/v10?query=19750at2157	ATPase
+21317at2157	Missing
+22545at2157	Complete	Ga0485799_0004	11763	12881	+	140.5	241	https://www.orthodb.org/v10?query=22545at2157	tRNA-splicing ligase RtcB
+22747at2157	Fragmented	Ga0485799_0042	706	1722	+	235.7	265	https://www.orthodb.org/v10?query=22747at2157	phenylalanine--tRNA ligase subunit alpha
+22842at2157	Missing
+23182at2157	Missing
+23221at2157	Duplicated	Ga0485799_0029	3435	4727	-	363.0	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	Ga0485799_0943	227	1504	+	349.7	322	https://www.orthodb.org/v10?query=23221at2157	Enolase
+24257at2157	Missing
+24288at2157	Missing
+25592at2157	Missing
+25871at2157	Duplicated	Ga0485799_0217	3963	5336	+	224.8	347	https://www.orthodb.org/v10?query=25871at2157	signal recognition particle protein
+25871at2157	Duplicated	Ga0485799_0363	8874	10241	+	201.4	378	https://www.orthodb.org/v10?query=25871at2157	signal recognition particle protein
+29893at2157	Missing
+30130at2157	Missing
+31316at2157	Complete	Ga0485799_0072	40017	41213	-	164.6	223	https://www.orthodb.org/v10?query=31316at2157	Dihydroorotate dehydrogenase
+31722at2157	Missing
+32079at2157	Missing
+32191at2157	Missing
+32623at2157	Missing
+35648at2157	Duplicated	Ga0485799_0667	124	1374	-	276.1	291	https://www.orthodb.org/v10?query=35648at2157	Adenylosuccinate synthetase
+35648at2157	Duplicated	Ga0485799_0374	8210	9496	-	262.6	262	https://www.orthodb.org/v10?query=35648at2157	Adenylosuccinate synthetase
+35861at2157	Missing
+36028at2157	Complete	Ga0485799_0126	15275	16174	-	132.0	238	https://www.orthodb.org/v10?query=36028at2157	Probable tRNA pseudouridine synthase B
+37207at2157	Missing
+37299at2157	Duplicated	Ga0485799_0297	5291	6646	-	426.7	388	https://www.orthodb.org/v10?query=37299at2157	Amidophosphoribosyltransferase
+37299at2157	Duplicated	Ga0485799_0443	250	1767	-	377.0	399	https://www.orthodb.org/v10?query=37299at2157	Amidophosphoribosyltransferase
+39322at2157	Duplicated	Ga0485799_0539	6538	7740	+	311.2	359	https://www.orthodb.org/v10?query=39322at2157	Adenylosuccinate lyase
+39322at2157	Duplicated	Ga0485799_0371	231	1592	-	298.9	395	https://www.orthodb.org/v10?query=39322at2157	Adenylosuccinate lyase
+41214at2157	Missing
+41305at2157	Complete	Ga0485799_0649	2938	4458	+	210.6	375	https://www.orthodb.org/v10?query=41305at2157	Bifunctional NAD(P)H-hydrate repair enzyme
+43727at2157	Duplicated	Ga0485799_0451	4570	5466	+	357.4	267	https://www.orthodb.org/v10?query=43727at2157	Ornithine carbamoyltransferase
+43727at2157	Duplicated	Ga0485799_0725	1863	2792	+	343.8	268	https://www.orthodb.org/v10?query=43727at2157	Ornithine carbamoyltransferase
+44076at2157	Missing
+46017at2157	Duplicated	Ga0485799_0033	10352	11533	-	254.2	350	https://www.orthodb.org/v10?query=46017at2157	Phosphoglycerate kinase
+46017at2157	Duplicated	Ga0485799_0492	1231	2427	-	230.8	349	https://www.orthodb.org/v10?query=46017at2157	Phosphoglycerate kinase
+47919at2157	Duplicated	Ga0485799_0723	1759	2976	+	247.2	314	https://www.orthodb.org/v10?query=47919at2157	Histidine--tRNA ligase
+47919at2157	Duplicated	Ga0485799_0156	24866	26137	+	229.0	311	https://www.orthodb.org/v10?query=47919at2157	Histidine--tRNA ligase
+48934at2157	Duplicated	Ga0485799_0237	17682	18413	-	41.1	115	https://www.orthodb.org/v10?query=48934at2157	Uridylate kinase
+48934at2157	Duplicated	Ga0485799_0831	811	1518	+	39.8	118	https://www.orthodb.org/v10?query=48934at2157	Uridylate kinase
+50844at2157	Duplicated	Ga0485799_0237	16221	16958	-	194.5	206	https://www.orthodb.org/v10?query=50844at2157	di-trans,poly-cis-decaprenylcistransferase
+50844at2157	Duplicated	Ga0485799_0211	13053	13739	-	185.9	205	https://www.orthodb.org/v10?query=50844at2157	di-trans,poly-cis-decaprenylcistransferase
+51351at2157	Missing
+52427at2157	Complete	Ga0485799_0196	8724	9278	+	89.4	131	https://www.orthodb.org/v10?query=52427at2157	threonylcarbamoyl-AMP synthase
+54988at2157	Complete	Ga0485799_0353	3068	4108	+	171.1	219	https://www.orthodb.org/v10?query=54988at2157	S-methyl-5-thioribose-1-phosphate isomerase
+55024at2157	Missing
+56027at2157	Duplicated	Ga0485799_0211	13732	14952	-	149.9	270	https://www.orthodb.org/v10?query=56027at2157	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+56027at2157	Duplicated	Ga0485799_0004	29846	31141	-	149.5	263	https://www.orthodb.org/v10?query=56027at2157	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+57545at2157	Missing
+58019at2157	Missing
+58022at2157	Duplicated	Ga0485799_0013	33148	34425	-	241.8	350	https://www.orthodb.org/v10?query=58022at2157	Phosphoribosylamine--glycine ligase
+58022at2157	Duplicated	Ga0485799_1092	412	1683	+	207.3	348	https://www.orthodb.org/v10?query=58022at2157	Phosphoribosylamine--glycine ligase
+58340at2157	Missing
+59062at2157	Missing
+59314at2157	Duplicated	Ga0485799_0714	614	1543	+	106.2	161	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59314at2157	Duplicated	Ga0485799_0054	24915	25889	-	103.7	176	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59861at2157	Missing
+60366at2157	Missing
+60670at2157	Fragmented	Ga0485799_0521	353	1093	+	31.1	81	https://www.orthodb.org/v10?query=60670at2157	Triosephosphate isomerase
+60954at2157	Missing
+61613at2157	Missing
+61936at2157	Missing
+62508at2157	Duplicated	Ga0485799_0072	1084	2178	-	142.5	170	https://www.orthodb.org/v10?query=62508at2157	Phosphoribosylformylglycinamidine cyclo-ligase
+62508at2157	Duplicated	Ga0485799_0706	3389	4384	-	136.0	175	https://www.orthodb.org/v10?query=62508at2157	Phosphoribosylformylglycinamidine cyclo-ligase
+63341at2157	Missing
+64860at2157	Missing
+65833at2157	Missing
+66209at2157	Missing
+66811at2157	Missing
+69351at2157	Missing
+70269at2157	Missing
+70525at2157	Missing
+70865at2157	Missing
+72726at2157	Missing
+73593at2157	Missing
+74812at2157	Missing
+75288at2157	Missing
+76134at2157	Missing
+76877at2157	Missing
+78046at2157	Missing
+79065at2157	Missing
+79845at2157	Complete	Ga0485799_0193	6911	8323	+	100.9	132	https://www.orthodb.org/v10?query=79845at2157	FAD synthase
+80498at2157	Missing
+80501at2157	Missing
+80629at2157	Missing
+82104at2157	Missing
+82755at2157	Missing
+82853at2157	Missing
+83050at2157	Missing
+84219at2157	Duplicated	Ga0485799_0572	3	341	+	43.6	99	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84219at2157	Duplicated	Ga0485799_0338	10558	10917	+	39.7	109	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84684at2157	Complete	Ga0485799_0042	6356	8032	+	123.4	376	https://www.orthodb.org/v10?query=84684at2157	Translation initiation factor 2 subunit alpha
+85023at2157	Missing
+85279at2157	Missing
+85293at2157	Missing
+87367at2157	Fragmented	Ga0485799_0196	20015	20446	+	43.9	65	https://www.orthodb.org/v10?query=87367at2157	50S ribosomal protein L13
+87520at2157	Missing
+88531at2157	Complete	Ga0485799_0039	21694	22107	-	46.7	91	https://www.orthodb.org/v10?query=88531at2157	6,7-dimethyl-8-ribityllumazine synthase
+89321at2157	Missing
+89943at2157	Missing
+90096at2157	Missing
+90641at2157	Duplicated	Ga0485799_0520	6530	7486	-	204.2	209	https://www.orthodb.org/v10?query=90641at2157	Signal recognition particle receptor FtsY
+90641at2157	Duplicated	Ga0485799_0224	7238	8224	+	196.2	235	https://www.orthodb.org/v10?query=90641at2157	Signal recognition particle receptor FtsY
+90817at2157	Complete	Ga0485799_0872	502	1173	-	196.8	178	https://www.orthodb.org/v10?query=90817at2157	phosphoribosylformylglycinamidine synthase I
+90882at2157	Missing
+91154at2157	Missing
+91297at2157	Missing
+91632at2157	Complete	Ga0485799_0398	5656	6027	-	86.5	100	https://www.orthodb.org/v10?query=91632at2157	50S ribosomal protein L14
+91936at2157	Missing
+92409at2157	Missing
+92795at2157	Fragmented	Ga0485799_0678	2330	3397	-	83.5	130	https://www.orthodb.org/v10?query=92795at2157	tRNA pseudouridine(13) synthase TruD
+93236at2157	Complete	Ga0485799_0046	46736	47368	+	91.9	149	https://www.orthodb.org/v10?query=93236at2157	V-type ATP synthase subunit D
+93256at2157	Missing
+94875at2157	Fragmented	Ga0485799_0237	12067	13401	-	69.6	237	https://www.orthodb.org/v10?query=94875at2157	PDZ domain-containing protein
+94889at2157	Complete	Ga0485799_0102	28631	29242	+	77.9	133	https://www.orthodb.org/v10?query=94889at2157	non-canonical purine NTP pyrophosphatase
+95578at2157	Missing
+96138at2157	Missing
+97230at2157	Missing
+98179at2157	Missing
+98187at2157	Complete	Ga0485799_0204	16911	17336	-	71.6	112	https://www.orthodb.org/v10?query=98187at2157	50S ribosomal protein L11
+98221at2157	Missing
+98657at2157	Complete	Ga0485799_0004	74378	75034	+	151.0	178	https://www.orthodb.org/v10?query=98657at2157	Ribose-5-phosphate isomerase A
+99236at2157	Missing
+99734at2157	Complete	Ga0485799_0056	33552	34319	-	142.9	172	https://www.orthodb.org/v10?query=99734at2157	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+99842at2157	Missing
+101957at2157	Missing
+102178at2157	Missing
+102360at2157	Missing
+102399at2157	Complete	Ga0485799_0102	24350	24880	-	36.0	113	https://www.orthodb.org/v10?query=102399at2157	RNA 2',3'-cyclic phosphodiesterase
+103467at2157	Missing
+104254at2157	Missing
+104636at2157	Duplicated	Ga0485799_0298	13729	14550	-	120.1	170	https://www.orthodb.org/v10?query=104636at2157	thiamine-phosphate kinase
+104636at2157	Duplicated	Ga0485799_0107	26844	27803	-	109.6	184	https://www.orthodb.org/v10?query=104636at2157	thiamine-phosphate kinase
+104702at2157	Missing
+104786at2157	Missing
+105095at2157	Missing
+105165at2157	Missing
+105421at2157	Missing
+105604at2157	Missing
+105851at2157	Missing
+106462at2157	Duplicated	Ga0485799_0124	14306	14737	+	133.2	121	https://www.orthodb.org/v10?query=106462at2157	Nucleoside diphosphate kinase
+106462at2157	Duplicated	Ga0485799_1204	784	1197	+	128.0	119	https://www.orthodb.org/v10?query=106462at2157	Nucleoside diphosphate kinase
+106603at2157	Missing
+107015at2157	Missing
+107212at2157	Missing
+107993at2157	Missing
+108145at2157	Fragmented	Ga0485799_0001	101386	101655	+	54.9	70	https://www.orthodb.org/v10?query=108145at2157	30S ribosomal protein S17
+108717at2157	Missing
+109335at2157	Missing
+110798at2157	Complete	Ga0485799_0087	18595	19518	+	13.7	61	https://www.orthodb.org/v10?query=110798at2157	adenylate kinase
+111803at2157	Missing
+112466at2157	Missing
+112720at2157	Missing
+113971at2157	Complete	Ga0485799_0001	98078	98374	+	41.8	71	https://www.orthodb.org/v10?query=113971at2157	50S ribosomal protein L23
+114285at2157	Complete	Ga0485799_0338	10930	11319	+	86.4	121	https://www.orthodb.org/v10?query=114285at2157	30S ribosomal protein S11
+114541at2157	Missing
+115384at2157	Missing
+115425at2157	Missing
+115808at2157	Fragmented	Ga0485799_0051	15220	16566	-	59.9	192	https://www.orthodb.org/v10?query=115808at2157	Geranylgeranyl reductase
+115947at2157	Missing
+116294at2157	Missing
+116732at2157	Missing
+116879at2157	Fragmented	Ga0485799_1320	1	561	+	73.6	95	https://www.orthodb.org/v10?query=116879at2157	Peptidyl-prolyl cis-trans isomerase
+117225at2157	Complete	Ga0485799_0046	47368	48012	+	62.9	110	https://www.orthodb.org/v10?query=117225at2157	Orotate phosphoribosyltransferase
+117241at2157	Missing
+119044at2157	Fragmented	Ga0485799_0104	24883	25749	-	31.8	59	https://www.orthodb.org/v10?query=119044at2157	Methyltransferase
+119723at2157	Missing
+121171at2157	Missing
+121548at2157	Missing
+121943at2157	Missing
+122290at2157	Missing
+123463at2157	Missing
+123503at2157	Missing
+123853at2157	Missing
+123859at2157	Missing
+124073at2157	Missing
+124429at2157	Missing
+124805at2157	Missing
+124913at2157	Missing
+124973at2157	Missing
+125162at2157	Missing
+125788at2157	Missing
+126193at2157	Missing
+127293at2157	Missing
+128227at2157	Missing
+128960at2157	Missing
+129321at2157	Missing
+129447at2157	Missing
+129924at2157	Missing
+130316at2157	Complete	Ga0485799_0617	5089	6042	-	34.1	116	https://www.orthodb.org/v10?query=130316at2157	DNA-binding protein
+130364at2157	Fragmented	Ga0485799_0101	31406	32089	-	17.0	19	https://www.orthodb.org/v10?query=130364at2157	Ribosome biogenesis protein Nop10
+131584at2157	Missing

@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0485799_0869_1     -            167 61613at2157          -            354   5.1e-09   34.9   0.0   1   1   1.4e-12   5.6e-09   34.8   0.0    45   187     3   146     1   157 0.76 # 84 # 584 # 1 # ID=869_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.263
+Ga0485799_0207_1     -           3395 61613at2157          -            354     0.028   12.8   0.1   1   2     0.013        50    2.1   0.0   129   170  1095  1136  1092  1145 0.86 # 3 # 10187 # 1 # ID=207_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+Ga0485799_0207_1     -           3395 61613at2157          -            354     0.028   12.8   0.1   2   2   0.00018       0.7    8.2   0.0   130   177  2154  2201  2152  2206 0.91 # 3 # 10187 # 1 # ID=207_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+Ga0485799_0543_2     -           1690 61613at2157          -            354      0.13   10.6   0.0   1   1   6.5e-05      0.25    9.6   0.0   129   169   527   567   526   577 0.84 # 2603 # 7672 # 1 # ID=543_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+Ga0485799_0677_1     -           1738 61613at2157          -            354      0.16   10.3   0.0   1   3    0.0048        19    3.5   0.0   129   161   635   667   634   681 0.84 # 3 # 5216 # -1 # ID=677_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+Ga0485799_0677_1     -           1738 61613at2157          -            354      0.16   10.3   0.0   2   3      0.35   1.4e+03   -2.7   0.0   205   225  1208  1228  1174  1236 0.84 # 3 # 5216 # -1 # ID=677_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+Ga0485799_0677_1     -           1738 61613at2157          -            354      0.16   10.3   0.0   3   3    0.0049        19    3.5   0.0   129   163  1699  1733  1698  1737 0.88 # 3 # 5216 # -1 # ID=677_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/61613at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/auto_lineage/run_archaea_odb10/hmmer_output/61613at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/61613at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article
+# Date:            Wed Jul 13 13:04:28 2022
+# [ok]

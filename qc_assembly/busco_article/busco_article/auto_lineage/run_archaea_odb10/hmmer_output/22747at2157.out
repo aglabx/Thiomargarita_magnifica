@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0485799_0042_1     -            339 22747at2157          -            416   9.6e-70  235.7   0.5   1   3   2.4e-22   6.2e-19   68.3   0.0   129   232    60   162    13   165 0.86 # 706 # 1722 # 1 # ID=42_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+Ga0485799_0042_1     -            339 22747at2157          -            416   9.6e-70  235.7   0.5   2   3   5.7e-35   1.5e-31  109.9   0.0   261   366   164   268   161   270 0.93 # 706 # 1722 # 1 # ID=42_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+Ga0485799_0042_1     -            339 22747at2157          -            416   9.6e-70  235.7   0.5   3   3   2.2e-18   5.6e-15   55.3   0.0   357   414   275   337   271   338 0.90 # 706 # 1722 # 1 # ID=42_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+Ga0485799_0309_7     -            332 22747at2157          -            416   6.3e-60  203.4  11.5   1   2   1.2e-22   3.2e-19   69.3   1.2   125   232    50   156    19   158 0.80 # 4509 # 5504 # 1 # ID=309_7;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.320
+Ga0485799_0309_7     -            332 22747at2157          -            416   6.3e-60  203.4  11.5   2   2   3.4e-43   8.8e-40  137.0   3.4   262   413   159   329   155   331 0.86 # 4509 # 5504 # 1 # ID=309_7;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.320
+Ga0485799_0348_12    -            509 22747at2157          -            416   6.3e-06   25.5   2.1   1   3     0.085   2.2e+02    0.6   0.0   165   204   164   203    32   205 0.79 # 10577 # 12103 # 1 # ID=348_12;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+Ga0485799_0348_12    -            509 22747at2157          -            416   6.3e-06   25.5   2.1   2   3   8.4e-08   0.00022   20.4   0.1   284   332   245   291   234   312 0.84 # 10577 # 12103 # 1 # ID=348_12;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+Ga0485799_0348_12    -            509 22747at2157          -            416   6.3e-06   25.5   2.1   3   3     0.027        71    2.3   0.0   384   403   465   484   459   487 0.92 # 10577 # 12103 # 1 # ID=348_12;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.299
+Ga0485799_0583_5     -            148 22747at2157          -            416    0.0089   15.1   0.0   1   1   4.1e-06     0.011   14.9   0.0     5    70    51   119    47   144 0.83 # 2081 # 2524 # 1 # ID=583_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.459
+Ga0485799_0211_20    -            413 22747at2157          -            416     0.017   14.2   0.5   1   2   0.00016      0.41    9.6   0.1   283   309    34    60    23    64 0.93 # 20836 # 22074 # -1 # ID=211_20;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+Ga0485799_0211_20    -            413 22747at2157          -            416     0.017   14.2   0.5   2   2     0.024        62    2.4   0.0   383   403   353   373   350   378 0.92 # 20836 # 22074 # -1 # ID=211_20;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+Ga0485799_0236_4     -            310 22747at2157          -            416      0.14   11.2   0.0   1   2    0.0006       1.6    7.7   0.0   282   331    79   126    58   129 0.81 # 2846 # 3775 # -1 # ID=236_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.459
+Ga0485799_0236_4     -            310 22747at2157          -            416      0.14   11.2   0.0   2   2     0.063   1.6e+02    1.1   0.0   385   403   283   301   277   304 0.88 # 2846 # 3775 # -1 # ID=236_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.459
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/22747at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/auto_lineage/run_archaea_odb10/hmmer_output/22747at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/22747at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article
+# Date:            Wed Jul 13 13:04:28 2022
+# [ok]
