@@ -1,0 +1,219 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: archaea_odb10 (Creation date: 2021-02-23, number of genomes: 404, number of BUSCOs: 194)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+860at2157	Complete	NODE_1144_length_2856_cov_4.149694	340	2547	-	517.7	511	https://www.orthodb.org/v10?query=860at2157	Phosphoribosylformylglycinamidine synthase subunit PurL
+1642at2157	Missing
+3905at2157	Missing
+6590at2157	Complete	NODE_19_length_54395_cov_98.907231	38976	40988	+	288.1	364	https://www.orthodb.org/v10?query=6590at2157	Methionine--tRNA ligase
+6736at2157	Missing
+7046at2157	Duplicated	NODE_304_length_14327_cov_70.551860	12210	13931	-	194.2	401	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7046at2157	Duplicated	NODE_523_length_8775_cov_8.029087	4527	6116	-	178.6	414	https://www.orthodb.org/v10?query=7046at2157	Arginine--tRNA ligase
+7724at2157	Missing
+7896at2157	Complete	NODE_243_length_16487_cov_106.652834	51	2738	+	258.0	385	https://www.orthodb.org/v10?query=7896at2157	Alanine--tRNA ligase
+8899at2157	Complete	NODE_91_length_27535_cov_38.742734	4851	6254	+	589.2	389	https://www.orthodb.org/v10?query=8899at2157	V-type ATP synthase beta chain
+8922at2157	Missing
+10236at2157	Missing
+13010at2157	Missing
+13531at2157	Missing
+13565at2157	Missing
+14061at2157	Duplicated	NODE_978_length_3843_cov_100.559214	500	2131	+	582.3	467	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14061at2157	Duplicated	NODE_688_length_6455_cov_10.425525	1367	2983	+	547.9	451	https://www.orthodb.org/v10?query=14061at2157	CTP synthase
+14454at2157	Missing
+14889at2157	Complete	NODE_154_length_21491_cov_62.445736	8424	10280	-	248.5	450	https://www.orthodb.org/v10?query=14889at2157	V-type ATP synthase subunit I
+17053at2157	Missing
+17629at2157	Complete	NODE_111_length_25662_cov_105.666914	16348	17661	-	331.1	336	https://www.orthodb.org/v10?query=17629at2157	Adenosylhomocysteinase
+18705at2157	Complete	NODE_1057_length_3280_cov_6.892913	1741	3039	-	222.3	361	https://www.orthodb.org/v10?query=18705at2157	MiaB-like tRNA modifying enzyme
+19750at2157	Fragmented	NODE_1445_length_1856_cov_4.048904	1	969	+	28.8	121	https://www.orthodb.org/v10?query=19750at2157	ATPase
+21317at2157	Missing
+22545at2157	Complete	NODE_262_length_15914_cov_43.686620	3082	4200	-	140.5	241	https://www.orthodb.org/v10?query=22545at2157	tRNA-splicing ligase RtcB
+22747at2157	Fragmented	NODE_20_length_53635_cov_137.680010	52094	53110	-	235.7	265	https://www.orthodb.org/v10?query=22747at2157	phenylalanine--tRNA ligase subunit alpha
+22842at2157	Missing
+23182at2157	Missing
+23221at2157	Duplicated	NODE_116_length_25401_cov_121.742774	20606	21898	+	363.0	325	https://www.orthodb.org/v10?query=23221at2157	Enolase
+23221at2157	Duplicated	NODE_1203_length_2616_cov_8.960221	216	1493	+	349.7	322	https://www.orthodb.org/v10?query=23221at2157	Enolase
+24257at2157	Missing
+24288at2157	Missing
+25592at2157	Missing
+25871at2157	Duplicated	NODE_155_length_21259_cov_99.639505	15824	17197	-	224.8	347	https://www.orthodb.org/v10?query=25871at2157	signal recognition particle protein
+25871at2157	Duplicated	NODE_339_length_12999_cov_5.707708	8874	10241	+	201.4	378	https://www.orthodb.org/v10?query=25871at2157	signal recognition particle protein
+29893at2157	Missing
+30130at2157	Missing
+31316at2157	Duplicated	NODE_620_length_7200_cov_4.254528	1086	2144	+	190.1	261	https://www.orthodb.org/v10?query=31316at2157	Dihydroorotate dehydrogenase
+31316at2157	Duplicated	NODE_583_length_7783_cov_121.411238	3248	4444	-	164.6	223	https://www.orthodb.org/v10?query=31316at2157	Dihydroorotate dehydrogenase
+31722at2157	Missing
+32079at2157	Missing
+32191at2157	Missing
+32623at2157	Missing
+35648at2157	Duplicated	NODE_240_length_16582_cov_3.867555	3345	4595	-	276.1	291	https://www.orthodb.org/v10?query=35648at2157	Adenylosuccinate synthetase
+35648at2157	Duplicated	NODE_349_length_12677_cov_63.400397	8353	9639	-	262.6	262	https://www.orthodb.org/v10?query=35648at2157	Adenylosuccinate synthetase
+35861at2157	Missing
+36028at2157	Complete	NODE_76_length_29591_cov_91.055804	13466	14365	+	132.0	238	https://www.orthodb.org/v10?query=36028at2157	Probable tRNA pseudouridine synthase B
+37207at2157	Missing
+37299at2157	Duplicated	NODE_538_length_8534_cov_5.967364	1917	3272	+	426.2	388	https://www.orthodb.org/v10?query=37299at2157	Amidophosphoribosyltransferase
+37299at2157	Duplicated	NODE_717_length_6147_cov_82.012026	4456	5973	+	377.0	399	https://www.orthodb.org/v10?query=37299at2157	Amidophosphoribosyltransferase
+39322at2157	Duplicated	NODE_84_length_28464_cov_7.097686	27262	28464	+	311.2	359	https://www.orthodb.org/v10?query=39322at2157	Adenylosuccinate lyase
+39322at2157	Duplicated	NODE_957_length_3962_cov_99.993565	204	1565	-	298.9	395	https://www.orthodb.org/v10?query=39322at2157	Adenylosuccinate lyase
+41214at2157	Missing
+41305at2157	Complete	NODE_804_length_5104_cov_87.676348	2621	4141	+	210.6	375	https://www.orthodb.org/v10?query=41305at2157	Bifunctional NAD(P)H-hydrate repair enzyme
+43727at2157	Duplicated	NODE_482_length_9626_cov_116.449785	4318	5214	+	357.4	267	https://www.orthodb.org/v10?query=43727at2157	Ornithine carbamoyltransferase
+43727at2157	Duplicated	NODE_869_length_4627_cov_6.712747	1817	2746	+	343.8	268	https://www.orthodb.org/v10?query=43727at2157	Ornithine carbamoyltransferase
+44076at2157	Missing
+46017at2157	Duplicated	NODE_165_length_20702_cov_98.993018	12296	13477	+	254.2	350	https://www.orthodb.org/v10?query=46017at2157	Phosphoglycerate kinase
+46017at2157	Duplicated	NODE_523_length_8775_cov_8.029087	1139	2335	-	230.8	349	https://www.orthodb.org/v10?query=46017at2157	Phosphoglycerate kinase
+47919at2157	Duplicated	NODE_452_length_10110_cov_5.837536	7188	8405	+	247.2	314	https://www.orthodb.org/v10?query=47919at2157	Histidine--tRNA ligase
+47919at2157	Duplicated	NODE_36_length_43095_cov_111.927124	24689	25960	+	229.0	311	https://www.orthodb.org/v10?query=47919at2157	Histidine--tRNA ligase
+48934at2157	Duplicated	NODE_232_length_16999_cov_116.013533	16035	16766	-	41.1	115	https://www.orthodb.org/v10?query=48934at2157	Uridylate kinase
+48934at2157	Duplicated	NODE_1035_length_3444_cov_4.501634	1927	2634	-	39.8	118	https://www.orthodb.org/v10?query=48934at2157	Uridylate kinase
+50844at2157	Duplicated	NODE_232_length_16999_cov_116.013533	14574	15311	-	194.5	206	https://www.orthodb.org/v10?query=50844at2157	di-trans,poly-cis-decaprenylcistransferase
+50844at2157	Duplicated	NODE_115_length_25419_cov_6.883514	18283	18969	-	185.9	205	https://www.orthodb.org/v10?query=50844at2157	di-trans,poly-cis-decaprenylcistransferase
+51351at2157	Missing
+52427at2157	Complete	NODE_268_length_15571_cov_90.366787	14088	14642	-	89.4	131	https://www.orthodb.org/v10?query=52427at2157	threonylcarbamoyl-AMP synthase
+54988at2157	Complete	NODE_372_length_11797_cov_72.970819	7738	8778	-	171.1	219	https://www.orthodb.org/v10?query=54988at2157	S-methyl-5-thioribose-1-phosphate isomerase
+55024at2157	Missing
+56027at2157	Duplicated	NODE_115_length_25419_cov_6.883514	18962	20182	-	151.3	266	https://www.orthodb.org/v10?query=56027at2157	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+56027at2157	Duplicated	NODE_106_length_25977_cov_74.553900	4465	5760	-	149.5	263	https://www.orthodb.org/v10?query=56027at2157	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+57545at2157	Missing
+58019at2157	Missing
+58022at2157	Duplicated	NODE_21_length_50633_cov_89.725532	25047	26324	+	241.8	350	https://www.orthodb.org/v10?query=58022at2157	Phosphoribosylamine--glycine ligase
+58022at2157	Duplicated	NODE_1383_length_2040_cov_3.820683	555	1826	+	207.3	348	https://www.orthodb.org/v10?query=58022at2157	Phosphoribosylamine--glycine ligase
+58340at2157	Missing
+59062at2157	Missing
+59314at2157	Duplicated	NODE_654_length_6846_cov_5.780322	3575	4504	-	106.1	161	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59314at2157	Duplicated	NODE_283_length_14935_cov_75.044353	4191	5165	-	103.7	176	https://www.orthodb.org/v10?query=59314at2157	Ribose-phosphate pyrophosphokinase
+59861at2157	Missing
+60366at2157	Missing
+60670at2157	Fragmented	NODE_563_length_8117_cov_7.890672	7015	7755	-	30.7	80	https://www.orthodb.org/v10?query=60670at2157	Triosephosphate isomerase
+60954at2157	Missing
+61613at2157	Missing
+61936at2157	Missing
+62508at2157	Duplicated	NODE_206_length_18333_cov_98.442923	851	1945	-	142.5	170	https://www.orthodb.org/v10?query=62508at2157	Phosphoribosylformylglycinamidine cyclo-ligase
+62508at2157	Duplicated	NODE_1170_length_2751_cov_6.059760	41	1036	-	136.0	175	https://www.orthodb.org/v10?query=62508at2157	Phosphoribosylformylglycinamidine cyclo-ligase
+63341at2157	Missing
+64860at2157	Missing
+65833at2157	Missing
+66209at2157	Missing
+66811at2157	Missing
+69351at2157	Missing
+70269at2157	Missing
+70525at2157	Missing
+70865at2157	Missing
+72726at2157	Missing
+73593at2157	Missing
+74812at2157	Missing
+75288at2157	Missing
+76134at2157	Missing
+76877at2157	Missing
+78046at2157	Missing
+79065at2157	Missing
+79845at2157	Complete	NODE_136_length_23326_cov_112.483806	15263	16675	-	100.9	132	https://www.orthodb.org/v10?query=79845at2157	FAD synthase
+80498at2157	Missing
+80501at2157	Missing
+80629at2157	Missing
+82104at2157	Missing
+82755at2157	Missing
+82853at2157	Missing
+83050at2157	Missing
+84219at2157	Duplicated	NODE_633_length_7059_cov_4.111859	6718	7059	-	43.7	99	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84219at2157	Duplicated	NODE_149_length_22071_cov_178.576930	9902	10261	+	39.7	109	https://www.orthodb.org/v10?query=84219at2157	30S ribosomal protein S13
+84684at2157	Duplicated	NODE_20_length_53635_cov_137.680010	45784	47460	-	123.4	376	https://www.orthodb.org/v10?query=84684at2157	Translation initiation factor 2 subunit alpha
+84684at2157	Duplicated	NODE_334_length_13153_cov_4.726445	4745	6406	-	110.3	491	https://www.orthodb.org/v10?query=84684at2157	Translation initiation factor 2 subunit alpha
+85023at2157	Missing
+85279at2157	Missing
+85293at2157	Missing
+87367at2157	Fragmented	NODE_268_length_15571_cov_90.366787	2920	3351	-	43.9	65	https://www.orthodb.org/v10?query=87367at2157	50S ribosomal protein L13
+87520at2157	Missing
+88531at2157	Complete	NODE_70_length_30268_cov_76.016131	11857	12270	-	46.7	91	https://www.orthodb.org/v10?query=88531at2157	6,7-dimethyl-8-ribityllumazine synthase
+89321at2157	Missing
+89943at2157	Missing
+90096at2157	Missing
+90641at2157	Duplicated	NODE_229_length_17073_cov_9.537068	9602	10558	+	204.2	209	https://www.orthodb.org/v10?query=90641at2157	Signal recognition particle receptor FtsY
+90641at2157	Duplicated	NODE_393_length_11423_cov_96.522122	3416	4402	-	196.2	235	https://www.orthodb.org/v10?query=90641at2157	Signal recognition particle receptor FtsY
+90817at2157	Complete	NODE_1068_length_3201_cov_5.187580	1983	2654	+	196.8	178	https://www.orthodb.org/v10?query=90817at2157	phosphoribosylformylglycinamidine synthase I
+90882at2157	Missing
+91154at2157	Missing
+91297at2157	Missing
+91632at2157	Complete	NODE_371_length_11804_cov_4.094398	5729	6100	-	86.5	100	https://www.orthodb.org/v10?query=91632at2157	50S ribosomal protein L14
+91936at2157	Missing
+92409at2157	Missing
+92795at2157	Fragmented	NODE_963_length_3930_cov_8.555930	1059	2126	-	83.5	130	https://www.orthodb.org/v10?query=92795at2157	tRNA pseudouridine(13) synthase TruD
+93236at2157	Complete	NODE_39_length_42011_cov_85.366051	4178	4810	-	91.9	149	https://www.orthodb.org/v10?query=93236at2157	V-type ATP synthase subunit D
+93256at2157	Missing
+94875at2157	Fragmented	NODE_232_length_16999_cov_116.013533	10420	11754	-	69.6	237	https://www.orthodb.org/v10?query=94875at2157	PDZ domain-containing protein
+94889at2157	Complete	NODE_3_length_93320_cov_88.509593	71204	71815	-	77.9	133	https://www.orthodb.org/v10?query=94889at2157	non-canonical purine NTP pyrophosphatase
+95578at2157	Missing
+96138at2157	Missing
+97230at2157	Missing
+98179at2157	Missing
+98187at2157	Complete	NODE_124_length_24743_cov_6.685640	2810	3235	+	71.6	112	https://www.orthodb.org/v10?query=98187at2157	50S ribosomal protein L11
+98221at2157	Missing
+98657at2157	Complete	NODE_92_length_27478_cov_92.886026	4144	4800	-	151.0	178	https://www.orthodb.org/v10?query=98657at2157	Ribose-5-phosphate isomerase A
+99236at2157	Missing
+99734at2157	Complete	NODE_1125_length_2969_cov_71.931535	2114	2881	-	142.9	172	https://www.orthodb.org/v10?query=99734at2157	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase
+99842at2157	Missing
+101957at2157	Missing
+102178at2157	Missing
+102360at2157	Missing
+102399at2157	Complete	NODE_3_length_93320_cov_88.509593	75566	76096	+	36.0	113	https://www.orthodb.org/v10?query=102399at2157	RNA 2',3'-cyclic phosphodiesterase
+103467at2157	Missing
+104254at2157	Missing
+104636at2157	Duplicated	NODE_558_length_8261_cov_11.926931	5946	6767	-	120.1	170	https://www.orthodb.org/v10?query=104636at2157	thiamine-phosphate kinase
+104636at2157	Duplicated	NODE_146_length_22397_cov_84.635394	7389	8348	+	109.6	184	https://www.orthodb.org/v10?query=104636at2157	thiamine-phosphate kinase
+104702at2157	Missing
+104786at2157	Missing
+105095at2157	Missing
+105165at2157	Missing
+105421at2157	Missing
+105604at2157	Missing
+105851at2157	Missing
+106462at2157	Duplicated	NODE_156_length_21241_cov_110.021026	6314	6745	-	133.2	121	https://www.orthodb.org/v10?query=106462at2157	Nucleoside diphosphate kinase
+106462at2157	Duplicated	NODE_592_length_7630_cov_5.358401	2622	3035	-	128.0	119	https://www.orthodb.org/v10?query=106462at2157	Nucleoside diphosphate kinase
+106603at2157	Missing
+107015at2157	Missing
+107212at2157	Missing
+107993at2157	Missing
+108145at2157	Fragmented	NODE_14_length_56554_cov_106.661384	21554	21823	-	54.9	70	https://www.orthodb.org/v10?query=108145at2157	30S ribosomal protein S17
+108717at2157	Missing
+109335at2157	Missing
+110798at2157	Complete	NODE_83_length_28496_cov_99.911714	7429	8352	+	13.7	61	https://www.orthodb.org/v10?query=110798at2157	adenylate kinase
+111803at2157	Missing
+112466at2157	Missing
+112720at2157	Missing
+113971at2157	Complete	NODE_14_length_56554_cov_106.661384	24835	25131	-	41.8	71	https://www.orthodb.org/v10?query=113971at2157	50S ribosomal protein L23
+114285at2157	Complete	NODE_149_length_22071_cov_178.576930	10274	10663	+	86.4	121	https://www.orthodb.org/v10?query=114285at2157	30S ribosomal protein S11
+114541at2157	Missing
+115384at2157	Missing
+115425at2157	Missing
+115808at2157	Fragmented	NODE_24_length_49346_cov_105.417301	34284	35630	+	59.9	192	https://www.orthodb.org/v10?query=115808at2157	Geranylgeranyl reductase
+115947at2157	Missing
+116294at2157	Missing
+116732at2157	Missing
+116879at2157	Fragmented	NODE_1764_length_1261_cov_3.059966	701	1261	-	73.6	95	https://www.orthodb.org/v10?query=116879at2157	Peptidyl-prolyl cis-trans isomerase
+117225at2157	Complete	NODE_39_length_42011_cov_85.366051	3534	4178	-	62.9	110	https://www.orthodb.org/v10?query=117225at2157	Orotate phosphoribosyltransferase
+117241at2157	Missing
+119044at2157	Fragmented	NODE_350_length_12583_cov_47.162642	6684	7550	-	31.8	59	https://www.orthodb.org/v10?query=119044at2157	Methyltransferase
+119723at2157	Missing
+121171at2157	Missing
+121548at2157	Missing
+121943at2157	Missing
+122290at2157	Missing
+123463at2157	Missing
+123503at2157	Missing
+123853at2157	Missing
+123859at2157	Missing
+124073at2157	Missing
+124429at2157	Missing
+124805at2157	Missing
+124913at2157	Missing
+124973at2157	Missing
+125162at2157	Missing
+125788at2157	Missing
+126193at2157	Missing
+127293at2157	Missing
+128227at2157	Missing
+128960at2157	Missing
+129321at2157	Missing
+129447at2157	Missing
+129924at2157	Missing
+130316at2157	Missing
+130364at2157	Fragmented	NODE_338_length_13040_cov_64.640130	1333	2016	+	17.0	19	https://www.orthodb.org/v10?query=130364at2157	Ribosome biogenesis protein Nop10
+131584at2157	Missing

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0485799_0004_13    -            373 22545at2157          -            300   5.6e-41  140.5   1.0   1   1     2e-44   7.7e-41  140.0   1.0    57   298   128   368   119   370 0.88 # 11763 # 12881 # 1 # ID=4_13;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.477
+Ga0485799_0219_5     -            534 22545at2157          -            300   3.5e-39  134.6   0.0   1   1   1.5e-42   5.7e-39  133.9   0.0     6   285   231   516   227   532 0.78 # 5259 # 6860 # -1 # ID=219_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.431
+Ga0485799_0173_4     -            397 22545at2157          -            300   1.3e-38  132.7   0.0   1   1   4.3e-42   1.7e-38  132.4   0.0    60   292   148   387    95   395 0.83 # 6051 # 7241 # -1 # ID=173_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.454
+Ga0485799_0048_31    -            477 22545at2157          -            300   2.4e-36  125.3   0.0   1   1   1.1e-39   4.1e-36  124.5   0.0    62   297   219   472   208   475 0.77 # 33349 # 34779 # -1 # ID=48_31;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.481
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/22545at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/auto_lineage/run_archaea_odb10/hmmer_output/22545at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/archaea_odb10/hmms/22545at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article
+# Date:            Wed Jul 13 13:04:28 2022
+# [ok]

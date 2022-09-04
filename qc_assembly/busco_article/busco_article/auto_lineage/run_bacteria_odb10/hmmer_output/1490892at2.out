@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0485799_0083_14    -            243 1490892at2           -             89   1.1e-12   47.6  12.2   1   3    0.0079        31    4.5   0.0     1    20    25    44    25    83 0.83 # 22442 # 23170 # 1 # ID=83_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.454
+Ga0485799_0083_14    -            243 1490892at2           -             89   1.1e-12   47.6  12.2   2   3   1.8e-08   6.9e-05   22.6   0.7     9    51    85   136    77   144 0.74 # 22442 # 23170 # 1 # ID=83_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.454
+Ga0485799_0083_14    -            243 1490892at2           -             89   1.1e-12   47.6  12.2   3   3   3.9e-08   0.00015   21.5   3.2    56    88   184   227   171   228 0.75 # 22442 # 23170 # 1 # ID=83_14;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.454
+Ga0485799_2056_1     -            162 1490892at2           -             89     0.036   13.9   0.3   1   2      0.02        78    3.2   0.0    15    34    34    53    26    89 0.69 # 1 # 486 # -1 # ID=2056_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255
+Ga0485799_2056_1     -            162 1490892at2           -             89     0.036   13.9   0.3   2   2    0.0015         6    6.8   0.1    54    68   122   136   113   162 0.74 # 1 # 486 # -1 # ID=2056_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255
+Ga0485799_0042_16    -            366 1490892at2           -             89     0.047   13.5   0.9   1   2     0.059   2.3e+02    1.7   0.1     5    43   253   289   249   301 0.75 # 15663 # 16760 # 1 # ID=42_16;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.464
+Ga0485799_0042_16    -            366 1490892at2           -             89     0.047   13.5   0.9   2   2   0.00026         1    9.3   0.1    13    50   321   358   315   362 0.84 # 15663 # 16760 # 1 # ID=42_16;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.464
+Ga0485799_0859_1     -            217 1490892at2           -             89      0.14   12.0   2.1   1   3       2.9   1.1e+04   -3.7   0.0     3    15    23    35    22    37 0.78 # 2 # 652 # -1 # ID=859_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255
+Ga0485799_0859_1     -            217 1490892at2           -             89      0.14   12.0   2.1   2   3     0.016        64    3.5   0.0    16    38    89   111    85   144 0.59 # 2 # 652 # -1 # ID=859_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255
+Ga0485799_0859_1     -            217 1490892at2           -             89      0.14   12.0   2.1   3   3    0.0034        13    5.7   0.2    55    71   177   195   171   217 0.71 # 2 # 652 # -1 # ID=859_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.255
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/bacteria_odb10/hmms/1490892at2.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/auto_lineage/run_bacteria_odb10/hmmer_output/1490892at2.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_downloads/lineages/bacteria_odb10/hmms/1490892at2.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article/busco_article/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_article
+# Date:            Wed Jul 13 13:05:04 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NODE_1900_length_1073_cov_2.305221_2  -            297 51351at2157          -            255   2.4e-52  177.9   0.0   1   1   5.2e-56   2.8e-52  177.7   0.0    17   254    30   293     4   294 0.85 # 128 # 1018 # -1 # ID=1900_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.294
+NODE_163_length_20780_cov_81.736560_9 -            322 51351at2157          -            255   2.1e-47  161.7   0.1   1   1     5e-51   2.7e-47  161.4   0.1    22   254    51   310    35   311 0.82 # 5493 # 6458 # -1 # ID=163_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471
+NODE_482_length_9626_cov_116.449785_7 -            299 51351at2157          -            255   1.1e-20   74.1   0.0   1   1   1.6e-23   8.6e-20   71.2   0.0    23   252    42   294    20   297 0.67 # 4318 # 5214 # 1 # ID=482_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.472
+NODE_869_length_4627_cov_6.712747_3   -            310 51351at2157          -            255   4.7e-19   68.8   0.1   1   2   2.4e-21   1.3e-17   64.1   0.0     2   125    20   144    16   198 0.86 # 1817 # 2746 # 1 # ID=869_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.316
+NODE_869_length_4627_cov_6.712747_3   -            310 51351at2157          -            255   4.7e-19   68.8   0.1   2   2     0.012        62    2.9   0.0   202   251   249   300   210   303 0.78 # 1817 # 2746 # 1 # ID=869_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.316
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/archaea_odb10/hmms/51351at2157.hmm
+# Target file:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/auto_lineage/run_archaea_odb10/hmmer_output/51351at2157.out --cpu 1 /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_downloads/lineages/archaea_odb10/hmms/51351at2157.hmm /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results/busco_results/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/mira/Bacteria2022/Thiomargarita_magnifica/qc_assembly/busco_results
+# Date:            Tue Jul 12 12:51:49 2022
+# [ok]
